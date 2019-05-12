@@ -5,6 +5,18 @@ This project contains all the code necessary to reproduce the selling car predic
 In this study we employ a small dataset collection using data on the prices of other cars and their characteristics to build car price prediction models. 
 The output given models will help us determine the most reasonable car selling price. 
 
+Dependency Libraries:
+```
+* Python 3
+* pandas
+* numpy
+* scipy
+* scikit-learn
+* matplotlib
+* seaborn
+* jupyter notebook
+```
+   
 Project Outline:
 ```
 - Data Preparation
